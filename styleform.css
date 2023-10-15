@@ -1,0 +1,63 @@
+/* form {
+ text-align: center;
+ align-items: center;
+ margin: auto;
+} */
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald:wght@300&display=swap');
+ 
+  @import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Oswald:wght@300&display=swap');
+
+.container{
+ text-align: center;
+    align-items:center;
+    margin:auto ;
+/* background-color: aquamarine; */
+}
+#age{
+border: 2px solid #4ceb12;
+align-items: center;
+
+}
+#nm{
+border: 2px solid rgb(247, 15, 189);
+}
+#ml{
+    /* text-align: center; */
+align-items: center;
+margin: auto;
+border: 2px solid rgb(25, 10, 233)
+}
+
+#cm{
+    border: 2px solid orange;
+}
+#container4{
+   text-align: center;
+   margin:auto;
+   color:orange;
+}
+#container2{
+  text-align: center;
+  margin:auto;
+  color: blue;
+}
+#container1{
+ text-align: center;
+ margin:auto;
+ color: #eb12d5;
+}
+#container3{
+  text-align: center;
+  margin:auto;
+color: #4ceb12;
+}
+input[type="submit"]{
+    background-color: rgb(6, 255, 205);
+    color: rgb(255, 255, 255);
+font-size: 15px;
+/* font-family: 'Bebas Neue', sans-serif;
+font-family: 'Oswald', sans-serif; */
+font-family: 'Anton', sans-serif;
+border-radius: 16%;
+}
